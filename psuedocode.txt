@@ -1,0 +1,5 @@
+array of symbols, capital leters, etc.
+logic of random
+leave out things user doesn't want
+must add up to amount of characters requested
+run
