@@ -42,3 +42,5 @@ You are required to submit the following for review:
 **link to deployed application: https://kaitlinkenney.github.io/passwordgenerator/
 
 **screenshot: 
+![alt text][password generator]
+[password generator]: passwordgenerator.png "password generator screenshot"
